@@ -1,1 +1,1 @@
-# Sudoku
+Solving sudoku puzzle using backtracking algorithm.
