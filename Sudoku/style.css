@@ -1,0 +1,43 @@
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+ }
+ td:nth-of-type(3n) {
+    border-right: 3px solid #522548 !important;
+ }
+ tr:nth-of-type(3n) td {
+    border-bottom: 3px solid #522548 !important;
+ }
+ table {
+    border: 3px solid #cabbca !important;
+ }
+
+ .solve {
+    text-align: center;
+     width: 200px;
+     height: 100px;
+     cursor: pointer;
+     border-radius: 10px;
+     background-color: #cabbca;
+    margin-left: 550px;
+    position: absolute;
+    top: 11px;
+    font-size: larger;
+    
+ }
+
+ .generate {
+     text-align: center;
+     width: 200px;
+     height: 100px;
+     cursor: pointer;
+     border-radius: 10px;
+     background-color: #cabbca;
+     margin-left: 550px;
+     position: absolute;
+     top: 200px;
+     font-size: larger;
+ }
+
+ 
